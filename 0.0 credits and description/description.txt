@@ -1,25 +1,28 @@
-project type: cultural pavillion
+2001: A Web Oddysey 
 
-GFA: 250 m²
+Rotterdam, The Netherlands - 15th of September 2014
 
-materials: steel structure with a skin of Hylite aluminium composite panels
+ONL [Oosterhuis_Lénárd] (ONL) donated the iWeb building to the public domain by uploading the design and construction datasets to GitHub. The iWeb is a single space building that was originally designed as the pavilion for the province of Noord Holland for the Floriade 2002, the international exhibition of flowers and gardening, held every 10 years in The Netherlands. The iWeb was later redeveloped as laboratory for the Hyperbody Research Group (HRG), Delft University of Technology, faculty of Architecture (TU Delft). The building lost its function after a coffee machine destroyed the faculty of Architecture building in May 2008. 
 
-building costs: undisclosed
+iWeb: One Building, One Detail
+The Web was designed as a sculpture wrapped around a 250 m² event space in the weightless space of the computer. Gravity was only unleashed as an active force working upon the 3d model in the final stage of the design. The 3d model is manipulated like digital clay using a variety of techniques from 3D digitizer to modelling using surface sculpting tools. 
+The Web introduced a new structural principle of One Building, One Detail. Using a 3d triangular grid of flat and folded steel plates, each unique in shape and size architecture, structure and skin merge into one coherent architectural image. There is no repetition of elements. This approach of non-standard architecture was a revolution in the building industry. 
 
-Project description:
+Open Source Architecture
+September 2014 marked the end of the physical existence of the iWeb as the demolition crew unleased their predators on the structure. Battered and bruised the iWeb finally ceased to exist on September 11th. As every end marks the start of a new beginning ONL decided to donate the building to the public domain to ensure its immortality.
+When it comes to Open Source Architecture we have decided to put our money where our mouth is. The iWeb was designed to be produced using Computer Numerical Controlled (CNC) production facilities. To be able to use mass production techniques several program macros have been developed to convert the 3d models into data that can be used for the CNC production machines. 
+The datasets published on GitHub not only contains the design documentation, but includes the actual production data that was used to manufacture the individual building components. Also included on the GitHub project repository are the program macros / scripts that were used to generate the CNC production data. 
 
-The Web of North Holland 2002 - 2006 / iWeb 2006 - 2014
+Creative Commons
+"The Creative Commons copyright licenses and tools forge a balance inside the traditional “all rights reserved” setting that copyright law creates. Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work. The combination of our tools and our users is a vast and growing digital commons, a pool of content that can be copied, distributed, edited, remixed, and built upon, all within the boundaries of copyright law." http://creativecommons.org/licenses
 
-The province of north holland manifested itself on the Floriade 2002 with an exceptional pavilion. In the Web of north holland  visitors, the architecture of the pavilion and the multimedia presentation representing the province of north holland intertwine into a non-linear interactive game. 
+ONL [Oosterhuis_Lénárd]
+ONL [Oosterhuis_Lénárd] is a Rotterdam based design studio founded by architect prof. Kas Oosterhuis and visual artist Ilona Lénárd in 1989. It has developed to one of the leading offices in the implementation of information technology in the design and production process. Unique is its involvement in the realization of their designs by acting as lead designer. Key projects include the A2 Cockpit and Soundbarrier in Utrecht (the Netherlands), Bálna Budapest (Hungary) and the Liwa Tower (Abu Dhabi). 
 
-Interactive interior space
-Visitors play the building, the form and the shape of the presentation by walking around freely in the five brightly colored sectors of the presentation space (the pentagon). Every sector represents a specific aspect of the province of north holland. 
+Project facts
+project type: cultural pavillion (as Web of North Holland - Floriade 2002)/ research laboratory (as iWeb 2006-2014 - Delft University of Technology)
+size: GFA: 250 m²
+materials: steel structure with a skin of Hylite (aluminium composite panels)
+building costs: € 500.000,-
 
-One Building, One Detail
-The presentation space is nesting itself in the tightly streamlined body of the pavilion. The outer skin of the Web of north holland consists of triangles made of a composite material: Hylite. The triangles are fixed to a spatial triangulated steel structure which describes the shape of the pavilion. All structural elements are unique in size and shape and produced using CNC [computer numerical controlled] production techniques. The design is supported by a parametric 3d model. Both skin and structure are derived from this 3d model using scripted procedures. An Autolisp routine "unfolds" the 3d model as to generate the path for the plasma cutter.
-
-iWeb 2006 - 2014
-After functioning as a host for the interactive Noord Holland propaganda the pavilion was dismantled and reassembled in Delft. It was prepared for a second life on a location at the campus of the Delft University of Technology. Rebranded the iWeb it served as the interactive design laboratory Protospace for the Faculty of Architecture. 
-
-end of life and donation to the public domain
-The building lost its function as laboratory after a blaze destroyed the Faculty of Architecture in 2009 and cut off the life lines to the iWeb. In september 2014 the structure was demolished and all available material was donated to the public domain under the Creative Commons license. 
+The iWeb is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
